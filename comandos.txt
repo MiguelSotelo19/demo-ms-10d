@@ -1,0 +1,2 @@
+docker network ls
+docker compose up --build -d
